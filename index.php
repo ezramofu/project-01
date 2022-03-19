@@ -16,7 +16,7 @@
         $array = array("Daniel", "Ezra", "Paulo");
 
         foreach ($array as $loopdata) {
-            echo "My name is ".$loopdata. "<br>"
+            echo "My name is ".$loopdata. "<br>";
         }
 
 
